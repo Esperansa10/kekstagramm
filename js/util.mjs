@@ -39,7 +39,7 @@ function createArrays(count) {
   };
 
   return result;
-};
+}
 let Photos = createArrays(25);
 
 export {Photos};
